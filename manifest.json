@@ -1,0 +1,7 @@
+{
+  "name": "In App Reporting",
+  "version": "0.0.1",
+  "description": "Allows you to report a message from the context menu.",
+  "author": "botato",
+  "license": "MIT"
+}
